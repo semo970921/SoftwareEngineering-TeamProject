@@ -29,8 +29,8 @@
 ## 📂 **파일 설명**
 | 파일명 | 설명 |
 |--------|------|
-| [소웨공_1팀.pdf](https://github.com/semo970921/SoftwareEngineering-TeamProject/raw/main/소웨공_1팀.pdf) | Spring Blog 프로젝트의 유저 스토리 정리 |
-| [1팀_SpringBlog_분석.pdf](https://github.com/semo970921/SoftwareEngineering-TeamProject/raw/main/1팀_SpringBlog_분석.pdf) | Spring Blog의 시스템 모델링 및 아키텍처 분석 |
+|소웨공_1팀.pdf| Spring Blog 프로젝트의 유저 스토리 정리 |
+| 1팀_SpringBlog_분석.pdf| Spring Blog의 시스템 모델링 및 아키텍처 분석 |
 
 
 📌 **이 문서는 소프트웨어공학 수업의 팀 프로젝트 일환으로 작성되었습니다.**  
@@ -44,7 +44,7 @@
 
 ## 📄 **라이선스**
 이 저장소의 분석 문서는 [`Raysmond/SpringBlog`](https://github.com/Raysmond/SpringBlog)를 기반으로 작성되었습니다.  
-해당 프로젝트는 Modified BSD License를 따르며, 원본 프로젝트의 저작권은 **Jiankun LEI (Raysmond)**에게 있습니다.  
+해당 프로젝트는 **Modified BSD License**를 따르며, 원본 프로젝트의 저작권은 **Jiankun LEI (Raysmond)에게 있습니다.**
 본 문서는 분석 및 학습 목적으로 작성되었으며, 원본 코드 수정 및 배포와는 무관합니다.
 
 라이선스 관련 내용은 [`LICENSE`](./LICENSE) 파일을 참고하세요.
