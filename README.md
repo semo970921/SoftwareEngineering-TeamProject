@@ -29,8 +29,8 @@
 ## 📂 **파일 설명**
 | 파일명 | 설명 |
 |--------|------|
-| [`SpringBlog_유저스토리.pdf`](./SpringBlog_유저스토리.pdf) | Spring Blog 프로젝트의 유저 스토리 정리 |
-| [`SpringBlog_분석.pdf`](./SpringBlog_분석.pdf) | Spring Blog의 시스템 모델링 및 아키텍처 분석 |
+| [소웨공_1팀.pdf](./소웨공_1팀.pdf) | Spring Blog 프로젝트의 유저 스토리 정리 |
+| [1팀_SpringBlog_분석.pdf](./1팀_SpringBlog_분석.pdf) | Spring Blog의 시스템 모델링 및 아키텍처 분석 |
 
 📌 **이 문서는 소프트웨어공학 수업의 팀 프로젝트 일환으로 작성되었습니다.**  
 📌 **Spring Blog의 원본 코드에는 영향을 주지 않으며, 분석 및 학습 목적으로 제공됩니다.**  
